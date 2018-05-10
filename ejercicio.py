@@ -19,6 +19,6 @@ def distancias(d, df):
 	return df
 df = fun(the0,v0, g)
 dn = distancias(d, df)
-
+s
 
 		
